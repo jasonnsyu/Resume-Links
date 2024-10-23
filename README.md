@@ -1,6 +1,6 @@
 # Resume-Links
 
-Sand Tetris: https://github.com/jasonnsyu/sand-tetris
+Classic Tetris: https://github.com/jasonnsyu/classic-tetris
 
 Web Scraper: https://gitfront.io/r/jasonnsyu/7dQJUQT4wuLP/solar-flare-web-scraper/
 
